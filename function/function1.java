@@ -1,4 +1,4 @@
-public class function1 {
+public class function1{
     public static void printhelloworld(){
         System.out.println("Hello World");
         System.out.println("Hello World");
