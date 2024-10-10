@@ -7,7 +7,6 @@ public class constructor {
 
 class Student{
     String name;
-
     Student(String name){
         System.out.println("Constructor called..");
         this.name=name;
