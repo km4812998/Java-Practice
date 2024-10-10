@@ -13,7 +13,7 @@ class Student{
     String name;
     int roll;
 
-    Student(String name){
+    Student(){
         System.out.println("Constructor called..");
     }
     Student(String name){
