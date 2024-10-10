@@ -5,6 +5,8 @@ public class intro{
         System.out.println("Pen color: " + p1.getColor());
         p1.setTip(5);
         System.out.println("Tip Size: " + p1.gettipSize());
+        p1.setColor("Yellow");
+        System.out.println("Another Pen Color: " + p1.getColor());
 
         // BankAccount myAcc=new BankAccount();
         // myAcc.username="KumarMintu";
