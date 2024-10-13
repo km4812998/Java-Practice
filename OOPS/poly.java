@@ -1,10 +1,14 @@
 public class poly {
     public static void main(String[] args) {
+
+        //Method Overloading
         Calculator calc = new Calculator();
         System.out.println(calc.sum(1, 2));
         System.out.println(calc.sum((float) 1.5, (float) 2.5));
         System.out.println(calc.sum(1, 2, 3));
 
+
+        //Method OverRidding
         Deer de=new Deer();
         de.eat();
     }
