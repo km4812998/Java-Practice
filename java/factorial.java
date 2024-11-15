@@ -17,9 +17,6 @@ public class factorial {
 
 // MULTIPLICATION PROGRAM
 
-
-
-
 // import java.util.*;
 // class MultiplicationTable {
 // public static void printMultiplicationTable(int number){
